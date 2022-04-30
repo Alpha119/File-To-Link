@@ -12,4 +12,3 @@ jobs:
       - uses: mikeesto/heroku-awake@1.0.0
         with:
           URL: "https://filetolinkprox.herokuapp.com" 
- 
