@@ -7,3 +7,4 @@ def ping_server():
         logging.info('KeepAliveService: Pinged {} with status {}'.format(Var.FQDN, k.get('Status')))
     else:
         logging.error('Couldn\'t Ping the Server!')
+
